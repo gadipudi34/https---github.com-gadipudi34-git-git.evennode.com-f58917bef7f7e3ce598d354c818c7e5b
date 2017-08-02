@@ -1,0 +1,9 @@
+{
+  "name": "lake-nodeapp",
+  "version": "0.0.0",
+  "description": "LakeNodeapp",
+  "main": "server.js",
+  "author": {
+    "name": "sgadipudi"
+  }
+}

@@ -1,0 +1,2 @@
+H:\Examples\NodeJs\LakeNodeapp\LakeNodeapp\obj\Debug\LakeNodeapp.njsprojResolveAssemblyReference.cache
+H:\Examples\NodeJs\LakeNodeapp\LakeNodeapp\bin\Microsoft.NodejsTools.WebRole.dll
